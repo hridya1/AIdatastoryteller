@@ -7,7 +7,7 @@
 ---
 ## 🚀 Features
 
-* **Quick Data Summary:** View column types, missing values, unique counts, and first rows.
+* **Quick Data Summary:** View column types, missing values, unique counts, and first rows. 
 * **Interactive Visualizations:**
 
   * Numeric columns → histograms & KDE
