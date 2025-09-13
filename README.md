@@ -66,14 +66,6 @@ streamlit run dashboard/code.py
 
 ---
 
-## 📊 Notes
-
-* Only the first 3 numeric and categorical columns are visualized for clarity.
-* Categorical columns with more than 20 unique values are skipped for bar charts.
-* Temporary images used in PDF generation are automatically deleted.
-
----
-
 ## 📂 Dependencies
 
 * Python ≥ 3.8
