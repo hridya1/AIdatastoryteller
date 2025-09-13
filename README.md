@@ -87,13 +87,14 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
+
 
 Homepage view:  
 ![Homepage](screenshots/Homepage.png)
 
 Visualizations example:  
 ![Heatmap](screenshots/visualizations-heatmap.png)  
+
 ![Plots](screenshots/visualizations-plots.png)
 
 
