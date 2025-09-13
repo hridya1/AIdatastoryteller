@@ -1,7 +1,6 @@
 # 🧠 AI Data Storyteller
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/streamlit-v1.24-orange)](https://streamlit.io/) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/streamlit-
 **AI Data Storyteller** is a Streamlit app that lets you upload a CSV dataset, explore key statistics, visualize patterns, generate AI-powered insights, and download a professional PDF report — all in one place.
 
 ---
