@@ -5,7 +5,6 @@
 **AI Data Storyteller** is a Streamlit app that lets you upload a CSV dataset, explore key statistics, visualize patterns, generate AI-powered insights, and download a professional PDF report — all in one place.
 
 ---
-
 ## 🚀 Features
 
 * **Quick Data Summary:** View column types, missing values, unique counts, and first rows.
@@ -78,6 +77,7 @@ Homepage view:
 ![Homepage](screenshots/homepage.png)
 
 Visualizations example:  
-![Charts](screenshots/charts.png)
+![Charts](screenshots/visyalizations-heatmap.png)
+![Charts](screenshots/visyalizations-plots.png)
 
 
