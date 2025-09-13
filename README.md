@@ -89,7 +89,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 Homepage view:  
-![Homepage](screenshots/homepage.png)
+![Homepage](AIdatastoryteller/screenshots/Homepage.png)
 
 Visualizations example:  
 ![Charts](screenshots/visyalizations-heatmap.png)
