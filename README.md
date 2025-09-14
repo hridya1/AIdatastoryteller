@@ -89,6 +89,10 @@ Visualizations example:
 
 ![Plots](screenshots/visualizations-plots.png)
 
+Reports: 
+![report](screenshots/report.png) 
+![report](screenshots/downloadreport.png)  
+
 
 ---
 
